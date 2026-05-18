@@ -1,0 +1,92 @@
+id_tabela,nome_coluna,chave,cobertura_temporal,valor
+microdados_movimentacao,sexo,1,2020(1)2021,Homem
+microdados_movimentacao,sexo,3,2020(1)2021,Mulher
+microdados_movimentacao,sexo,9,2020(1)2021,Não Identificado
+microdados_movimentacao,fonte,1,2020(1)2021,Dado Original/Sem Imputação
+microdados_movimentacao,fonte,2,2020(1)2021,Desligamentos Imputados Do CAGED
+microdados_movimentacao,fonte,3,2020(1)2021,Desligamentos Imputados Do Empregadorweb
+microdados_movimentacao,raca_cor,3,2020(1)2021,Parda
+microdados_movimentacao,raca_cor,2,2020(1)2021,Preta
+microdados_movimentacao,raca_cor,1,2020(1)2021,Branca
+microdados_movimentacao,raca_cor,4,2020(1)2021,Amarela
+microdados_movimentacao,raca_cor,5,2020(1)2021,Indígena
+microdados_movimentacao,raca_cor,6,2020(1)2021,Não Informada
+microdados_movimentacao,raca_cor,9,2020(1)2021,Não Identificado
+microdados_movimentacao,categoria,999,2020(1)2021,Não Identificado
+microdados_movimentacao,categoria,103,2020(1)2021,Empregado - Aprendiz
+microdados_movimentacao,categoria,104,2020(1)2021,Empregado - Doméstico
+microdados_movimentacao,categoria,111,2020(1)2021,Empregado - Contrato De Trabalho Intermitente
+microdados_movimentacao,categoria,106,2020(1)2021,Trabalhador Temporário - Contrato Nos Termos Da Lei 6.019/1974
+microdados_movimentacao,categoria,105,2020(1)2021,Empregado - Contrato A Termo Firmado Nos Termos Da Lei 9.601/1998
+microdados_movimentacao,categoria,102,2020(1)2021,Empregado - Trabalhador Rural Por Pequeno Prazo Da Lei 11.718/2008
+microdados_movimentacao,categoria,101,2020(1)2021,"Empregado - Geral, Inclusive O Empregado Público Da Administração Direta Ou Indireta Contratado Pela Clt"
+microdados_movimentacao,categoria,108,2020(1)2021,Empregado - Contrato De Trabalho Verde E Amarelo - Com Acordo Para Antecipação Mensal Da Multa Rescisória Do Fgts
+microdados_movimentacao,categoria,107,2020(1)2021,Empregado - Contrato De Trabalho Verde E Amarelo - Sem Acordo Para Antecipação Mensal Da Multa Rescisória Do Fgts
+microdados_movimentacao,grau_instrucao,10,2020(1)2021,Mestrado
+microdados_movimentacao,grau_instrucao,11,2020(1)2021,Doutorado
+microdados_movimentacao,grau_instrucao,1,2020(1)2021,Analfabeto
+microdados_movimentacao,grau_instrucao,7,2020(1)2021,Médio Completo
+microdados_movimentacao,grau_instrucao,6,2020(1)2021,Médio Incompleto
+microdados_movimentacao,grau_instrucao,99,2020(1)2021,Não Identificado
+microdados_movimentacao,grau_instrucao,9,2020(1)2021,Superior Completo
+microdados_movimentacao,grau_instrucao,2,2020(1)2021,Até 5ª Incompleto
+microdados_movimentacao,grau_instrucao,8,2020(1)2021,Superior Incompleto
+microdados_movimentacao,grau_instrucao,5,2020(1)2021,Fundamental Completo
+microdados_movimentacao,grau_instrucao,4,2020(1)2021,6ª A 9ª Fundamental
+microdados_movimentacao,grau_instrucao,3,2020(1)2021,5ª Completo Fundamental
+microdados_movimentacao,grau_instrucao,80,2020(1)2021,Pós-Graduação Completa
+microdados_movimentacao,tipo_empregador,2,2020(1)2021,CPF
+microdados_movimentacao,tipo_empregador,0,2020(1)2021,CNPJ Raiz
+microdados_movimentacao,tipo_empregador,9,2020(1)2021,Não Identificado
+microdados_movimentacao,tipo_deficiencia,3,2020(1)2021,Visual
+microdados_movimentacao,tipo_deficiencia,1,2020(1)2021,Física
+microdados_movimentacao,tipo_deficiencia,2,2020(1)2021,Auditiva
+microdados_movimentacao,tipo_deficiencia,5,2020(1)2021,Múltipla
+microdados_movimentacao,tipo_deficiencia,6,2020(1)2021,Reabilitado
+microdados_movimentacao,tipo_deficiencia,0,2020(1)2021,Não Deficiente
+microdados_movimentacao,tipo_deficiencia,9,2020(1)2021,Não Identificado
+microdados_movimentacao,tipo_deficiencia,4,2020(1)2021,Intelectual (Mental)
+microdados_movimentacao,tipo_movimentacao,33,2020(1)2021,Culpa Recíproca
+microdados_movimentacao,tipo_movimentacao,99,2020(1)2021,Não Identificado
+microdados_movimentacao,tipo_movimentacao,40,2020(1)2021,Desligamento A Pedido
+microdados_movimentacao,tipo_movimentacao,60,2020(1)2021,Desligamento Por Morte
+microdados_movimentacao,tipo_movimentacao,20,2020(1)2021,Admissão Por Reemprego
+microdados_movimentacao,tipo_movimentacao,35,2020(1)2021,Admissão Por Reintegração
+microdados_movimentacao,tipo_movimentacao,70,2020(1)2021,Admissão Por Transferência
+microdados_movimentacao,tipo_movimentacao,98,2020(1)2021,Desligamento De Tipo Ignorado
+microdados_movimentacao,tipo_movimentacao,10,2020(1)2021,Admissão Por Primeiro Emprego
+microdados_movimentacao,tipo_movimentacao,50,2020(1)2021,Desligamento Por Aposentadoria
+microdados_movimentacao,tipo_movimentacao,80,2020(1)2021,Desligamento Por Transferência
+microdados_movimentacao,tipo_movimentacao,45,2020(1)2021,Desligamento Por Término De Contrato
+microdados_movimentacao,tipo_movimentacao,32,2020(1)2021,Desligamento Por Demissão Com Justa Causa
+microdados_movimentacao,tipo_movimentacao,31,2020(1)2021,Desligamento Por Demissão Sem Justa Causa
+microdados_movimentacao,tipo_movimentacao,43,2020(1)2021,Término Contrato Trabalho Prazo Determinado
+microdados_movimentacao,tipo_movimentacao,25,2020(1)2021,Admissão Por Contrato Trabalho Prazo Determinado
+microdados_movimentacao,tipo_movimentacao,90,2020(1)2021,Desligamento Por Acordo Entre Empregado E Empregador
+microdados_movimentacao,indicador_aprendiz,1,2020(1)2021,Sim
+microdados_movimentacao,indicador_aprendiz,0,2020(1)2021,Não
+microdados_movimentacao,indicador_aprendiz,9,2020(1)2021,Não Identificado
+microdados_movimentacao,saldo_movimentacao,1,2020(1)2021,Admissão
+microdados_movimentacao,saldo_movimentacao,-1,2020(1)2021,Desligamento
+microdados_movimentacao,tipo_estabelecimento,1,2020(1)2021,CNPJ
+microdados_movimentacao,tipo_estabelecimento,5,2020(1)2021,CEI(CAGED)
+microdados_movimentacao,tipo_estabelecimento,9,2020(1)2021,Não Identificado
+microdados_movimentacao,tipo_estabelecimento,4,2020(1)2021,CNO(Cadastro Nacional De Obra)
+microdados_movimentacao,tipo_estabelecimento,3,2020(1)2021,CAEPF(Cadastro De Atividade Econômica De Pessoa Física)
+microdados_movimentacao,indicador_trabalho_parcial,1,2020(1)2021,Sim
+microdados_movimentacao,indicador_trabalho_parcial,0,2020(1)2021,Não
+microdados_movimentacao,indicador_trabalho_parcial,9,2020(1)2021,Não Identificado
+microdados_movimentacao,indicador_trabalho_intermitente,1,2020(1)2021,Sim
+microdados_movimentacao,indicador_trabalho_intermitente,0,2020(1)2021,Não
+microdados_movimentacao,indicador_trabalho_intermitente,9,2020(1)2021,Não Identificado
+microdados_movimentacao,tamanho_estabelecimento_janeiro,1,2020(1)2021,Nenhum Vínculo
+microdados_movimentacao,tamanho_estabelecimento_janeiro,99,2020(1)2021,Não Identificado
+microdados_movimentacao,tamanho_estabelecimento_janeiro,2,2020(1)2021,De 1 A 4 Vínculos
+microdados_movimentacao,tamanho_estabelecimento_janeiro,3,2020(1)2021,De 5 A 9 Vínculos
+microdados_movimentacao,tamanho_estabelecimento_janeiro,4,2020(1)2021,De 10 A 19 Vínculos
+microdados_movimentacao,tamanho_estabelecimento_janeiro,5,2020(1)2021,De 20 A 49 Vínculos
+microdados_movimentacao,tamanho_estabelecimento_janeiro,6,2020(1)2021,De 50 A 99 Vínculos
+microdados_movimentacao,tamanho_estabelecimento_janeiro,10,2020(1)2021,1000 Ou Mais Vínculos
+microdados_movimentacao,tamanho_estabelecimento_janeiro,7,2020(1)2021,De 100 A 249 Vínculos
+microdados_movimentacao,tamanho_estabelecimento_janeiro,8,2020(1)2021,De 250 A 499 Vínculos
+microdados_movimentacao,tamanho_estabelecimento_janeiro,9,2020(1)2021,De 500 A 999 Vínculos
